@@ -1,1 +1,1 @@
-web: dnd_bot.py
+web: python dnd_bot.py
